@@ -1,2 +1,2 @@
-# web-study-homework
-web全栈学习笔记
+# web-learning-homework
+web全栈开发作业
